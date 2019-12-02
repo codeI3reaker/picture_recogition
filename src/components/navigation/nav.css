@@ -1,0 +1,23 @@
+.navbar{
+    display:flex;
+    height:10vh;
+    margin-bottom: 1rem;
+}
+
+.nav-container{
+    display:flex;
+    width:100%;
+}
+
+.nav-left{
+    display:flex;
+    width:100%;
+    justify-content:flex-start;
+    align-items: center;
+}
+
+.nav-right{
+    display:flex;
+    width:100%;
+    justify-content: flex-end;
+}

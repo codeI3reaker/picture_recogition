@@ -1,0 +1,52 @@
+.form-container{
+    background-color:white;
+    border-radius: 1rem;
+    display:inline-block;
+    padding:1.5rem;
+    position:relative;
+}
+
+.sign-in-form{
+    display:flex;
+    flex-direction: column;
+    height:65vh;
+    min-width: 25vw;
+}
+
+
+.form-section{
+    margin:1rem;
+}
+
+.form-title{
+    text-align: center;
+}
+
+.form-header{
+    text-align:start;
+}
+
+.form-input{
+    outline:none;
+    border:none;
+    background:transparent;
+    border-bottom: thin black solid;
+    width:100%;
+}
+
+
+.form-button-container{
+    align-self: center;
+    width:50%;
+    background: teal;
+    margin-top: 2rem;
+}
+
+.form-button{
+    padding: .5rem;
+    width:100%;
+    outline:none;
+    border:none;
+    background:transparent;
+}
+

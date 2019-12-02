@@ -1,0 +1,5 @@
+.picture-container{
+    display:inline-flex;
+    justify-content:center;
+    position:relative;
+};
